@@ -1,5 +1,5 @@
 - **TEP**: [2](https://github.com/ton-blockchain/TEPs/pull/2)
-- **title**: TON Addresses
+- **title**: TON address
 - **status**: Active
 - **type**: Core
 - **authors**: -
@@ -39,15 +39,15 @@ Example:
 
 The "root dns" (a special smart contract residing in the masterchain) has the address
 
-`-1:e56754f83426f69b09267bd876ac97c44821345b7e266bd956a7bfbfb98df35c`
+EQB7R-IvwAgtboYDQKoj6FRYYb8jMTG6YbTPyYTcqv86UxsM`
 
 in the "raw" form (notice that uppercase Latin letters 'A'..'F' may be used instead of 'a'..'f')
 
 and
 
-`Ef_lZ1T4NCb2mwkme9h2rJfESCE0W34ma9lWp7-_uY3zXDvq` (bounceable)
+`EQB7R-IvwAgtboYDQKoj6FRYYb8jMTG6YbTPyYTcqv86UxsM` (bounceable)
 
-`Uf_lZ1T4NCb2mwkme9h2rJfESCE0W34ma9lWp7-_uY3zXGYv` (non-bounceable)
+`EQB7R-IvwAgtboYDQKoj6FRYYb8jMTG6YbTPyYTcqv86UxsM` (non-bounceable)
 
 in the "user-friendly" form (to be displayed by user-friendly clients). 
 
