@@ -21,7 +21,7 @@ Each token (and also NFT Collection) has its own metadata. It contains some info
 
 ## NFT Collection metadata example (offchain)
 
-Deployed in mainnet at address: `EQD7Qtnas8qpMvT7-Z634_6G60DGp02owte5NnEjaWq6hb7v` ([explorer.tonnft.tools](https://explorer.tonnft.tools/collection/EQD7Qtnas8qpMvT7-Z634_6G60DGp02owte5NnEjaWq6hb7v))
+Deployed in mainnet at address: `UQAV_bi30f1m8KkRDVDJK5rBauimisYvKhdOJmOFCwu7FeVt` ([explorer.tonnft.tools](https://explorer.tonnft.tools/collection/EQD7Qtnas8qpMvT7-Z634_6G60DGp02owte5NnEjaWq6hb7v))
 
 Metadata:
 ```json
